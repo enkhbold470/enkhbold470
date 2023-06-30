@@ -7,7 +7,7 @@ Hello, my name is Inky Ganbold. I'm a robotics enthusiast with a background in C
 
 **Social Media Links:**
 
-![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white): [Enkhbold Ganbold (www.facebook.com/aab04e7d2522)
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white): [Enkhbold Ganbold] (www.facebook.com/aab04e7d2522)
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white): [en.khy](in/enkhbold-ganbold-b09a58142)
 
