@@ -6,7 +6,8 @@ Hello, my name is Inky Ganbold. I'm a robotics enthusiast with a background in C
 - ⌚ Timezone: 14:44 (UTC -07:00)
 
 **Social Media Links:**
-- Facebook: [TTF Robotics](www.facebook.com/aab04e7d2522)
+- [Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+): [TTF Robotics](www.facebook.com/aab04e7d2522)
 - LinkedIn: [en.khy](in/enkhbold-ganbold-b09a58142)
 - Medium: [en.khy](https://enkhy.medium.com/)
 - YouTube: [TTF Robotics](c/ttfrobotics)
