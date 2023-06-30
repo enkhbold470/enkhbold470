@@ -9,7 +9,7 @@ Hello, my name is Inky Ganbold. I'm a robotics enthusiast with a background in C
 ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)&nbsp;&nbsp;: [Enkhbold Ganbold](www.facebook.com/aab04e7d2522)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;&nbsp;: [en.khy](in/enkhbold-ganbold-b09a58142)
 ![- Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
-)&nbsp;&nbsp;: [en.khy](https://enkhy.medium.com/)
+): [en.khy](https://enkhy.medium.com/)
 
 **Bio:**
 - Robotics | Computer Engineering | IoT | 3D Printing | Embedded systems | AI | Digital circuits | Analog circuits | Microprocessors | Consultant
