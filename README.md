@@ -3,7 +3,7 @@
 Hello, my name is Inky Ganbold. I'm a robotics enthusiast with a background in Computer Engineering. My areas of interest include Robotics, Computer Engineering, IoT, 3D Printing, Embedded systems, AI, Digital circuits, Analog circuits, Microprocessors, and Consultancy.
 
 - 🌍 Location: Cupertino, CA
-- ⌚ Timezone: 14:44 (UTC -07:00)
+- ⌚ Timezone: (UTC -07:00)
 
 **Social Media Links:**
 
