@@ -2,20 +2,6 @@
 
 Hello, my name is Inky Ganbold. I'm a robotics enthusiast with a background in Computer Engineering. My areas of interest include Robotics, Computer Engineering, IoT, 3D Printing, Embedded systems, AI, Digital circuits, Analog circuits, Microprocessors, and Consultancy.
 
-- 🌍 Location: Cupertino, CA
-- ⌚ Timezone: (UTC -07:00)
-
-**Social Media Links:**
-
-![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white): [Enkhbold Ganbold](www.facebook.com/aab04e7d2522)
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white): [en.khy](in/enkhbold-ganbold-b09a58142)
-
-![- Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white): [en.khy](https://enkhy.medium.com/)
-
-**Bio:**
-- Robotics | Computer Engineering | IoT | 3D Printing | Embedded systems | AI | Digital circuits | Analog circuits | Microprocessors | Consultant
-
 Feel free to connect with me and explore my work in the exciting field of robotics!
 
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
