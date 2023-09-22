@@ -18,6 +18,8 @@ Feel free to connect with me and explore my work in the exciting field of roboti
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/Flutter?logo=flutter)
+
 
 ![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=enkhbold470&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enkhbold470&hide=TeX&layout=compact)
