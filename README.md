@@ -5,4 +5,4 @@ Last update: Aug 5, 2024
 [Portfolio Web enkhbold470.github.io](https://enkhbold470.github.io)
 <!-- Add additional sections, personal information, and customization as desired -->
 
-[![Enkhbold's GitHub stats](https://github-readme-stats.vercel.app/api?username=enkhbold470)]
+[Enkhbold's GitHub stats](https://github-readme-stats.vercel.app/api?username=enkhbold470)
