@@ -1,2 +1,6 @@
 ### Hi there 👋, I am Enkhbold Ganbold
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enkhbold470)
+
+<img src="https://github.com/enkhbold470/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/enkhbold470/stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/enkhbold470/stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/enkhbold470/stats/blob/master/generated/languages.svg#gh-light-mode-only" />
