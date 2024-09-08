@@ -99,11 +99,15 @@
   </tr>
   <tr>
     <td>Hardware & IoT</td>
-    <td>
-      <img src="https://img.shields.io/badge/ESP32-000000.svg?style=flat-square&logo=espressif&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat-square&logo=arduino&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A.svg?style=flat-square&logo=raspberry-pi&logoColor=white"/>
-    </td>
+<td>
+  <img src="https://img.shields.io/badge/ESP32-000000.svg?style=flat-square&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat-square&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A.svg?style=flat-square&logo=raspberry-pi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EasyEDA_Pro-%2300A9E0.svg?style=flat-square&logo=easyeda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Proteus_Design_Suite-%234D4D4D.svg?style=flat-square&logo=proteus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keil-%23007ACC.svg?style=flat-square&logo=keil&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MobaXterm-%233F51B5.svg?style=flat-square&logo=mobaXterm&logoColor=white"/>
+</td>
   </tr>
 </table>
 
