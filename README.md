@@ -1,4 +1,5 @@
-https://821f-68-65-164-10.ngrok-free.app/test
+http://10.19.183.152:5001/
+
 ### Hi there 👋, I am Enkhbold Ganbold
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
