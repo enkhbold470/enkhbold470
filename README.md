@@ -1,4 +1,3 @@
-http://10.19.183.152:5001/
 
 ### Hi there 👋, I am Enkhbold Ganbold
 
